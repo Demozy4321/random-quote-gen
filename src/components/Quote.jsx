@@ -39,6 +39,8 @@ const Quote = () => {
     "We are all like fireworks: we climb, we shine and always go our separate ways and become further apart. But even when that time comes, let’s not disappear like a firework and continue to shine.. forever.",
     "Mistakes are not shackles that halt one from stepping forward. Rather, they are that which sustain and grow one’s heart.",
     "It’s not always possible to do what we want to do, but it’s important to believe in something before you actually do it.",
+    "Find a victory in every defeat to remain hopeful, and find a defeat in every victory to remain humble.",
+    "Rainbows are formed only when both rain and sunshine meet.",
   ];
 
   const [quote, setQuote] = useState("");
